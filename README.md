@@ -6,9 +6,15 @@
 
 
 
-
 ## Currently
 
-- 🔭 I’m currently working on a README generator using NODE
-- 🌱 I’m currently learning the MERN stack
-- 📫 How to reach me: kevinhenleyinfo@gmail.com
+- I’m currently working on a README generator using NODE
+- I’m currently learning the MERN stack
+
+
+
+## Contact
+
+- Email: kevinhenleyinfo@gmail.com
+- Portfolio: https://kevinhenleycode.github.io/Portfolio/
+- LinkedIn: https://www.linkedin.com/in/kevin-henley/
