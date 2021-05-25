@@ -8,7 +8,7 @@
 
 ## Currently
 
-- I’m currently working on an employee DataBase that lets you add delete and view emolyee info
+- I’m currently working on an employee DataBase that lets you add delete and view employee info
 - I’m currently learning the MERN stack
 
 
