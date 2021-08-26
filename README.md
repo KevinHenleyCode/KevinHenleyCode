@@ -16,5 +16,5 @@
 ## Contact
 
 - Email: kevinhenleyinfo@gmail.com
-- Portfolio: https://kevinhenleycode.github.io/Portfolio/
+- Portfolio: https://kevinhenleycode.github.io/React_Portfolio/
 - LinkedIn: https://www.linkedin.com/in/kevin-henley/
