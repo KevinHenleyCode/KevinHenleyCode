@@ -16,6 +16,6 @@
 
 ## Contact
 
-- [Email](kevinhenleyinfo@gmail.com)
+- [Email](mailto:kevinhenleyinfo@gmail.com)
 - [Portfolio](https://kevinhenleycode.github.io/React_Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/kevin-henley/)
