@@ -10,6 +10,7 @@
 
 - I graduated from the Rice Bootcamp in August of 2021
 - I’m currently working on many different projects to not only increase my skills in the MERN stack but also learning Angular and AWS tech.
+- My current project is an e-commerce site very similar to Amazon.
 - I'm am still looking for a job so I have included a links in my contacts portion of this README.
 
 
