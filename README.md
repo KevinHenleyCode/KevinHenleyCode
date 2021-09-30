@@ -3,6 +3,18 @@
 - I started programming in college but didn’t realize until after I had graduated that that would be what I wanted to do. So, I decided to attend the Rice University Full Stack Bootcamp. It was there that I learned HTML, CSS, JavaScript, jQuery, Node, Express, MySQL, MongoDB and React.
 
 
+## Languages and Technologies 
+
+| | | |
+| :---  |    :----:   |   ---: |
+| HTML | CSS | JavaScript |
+| jQuery | Node | Express |
+| MySQL | MongoDB | React.js  |
+| PHP | Python | Linux |
+| | | |
+
+
+
 ## Currently
 
 - I graduated from the Rice Bootcamp in August of 2021
