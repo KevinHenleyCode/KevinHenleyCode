@@ -21,7 +21,6 @@
 - I’m currently working on many different projects to increase my skills in the MERN stack.
 - I'm also learning Angular, Vue and AWS.
 - My current project is an e-commerce site very similar to Amazon.
-- I'm am still looking for a job so I have included a links in my contacts portion of this README.
 
 
 
