@@ -12,6 +12,7 @@
 | MySQL | MongoDB | React.js  |
 | PHP | Python | Linux |
 | Tailwind | Bootstrap | Java |
+| C# |  |  |
 | | | |
 
 
