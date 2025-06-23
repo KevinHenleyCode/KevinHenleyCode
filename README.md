@@ -6,10 +6,10 @@
 
 | | | |
 | :---  |    :----:   |   ---: |
-Languages & Fundamentals: HTML | CSS | JavaScript | PHP | SQL
-Frameworks & Libraries: React | Next.js | Express | Tailwind | GraphQL | Prisma
-Tools & Platforms: Git | Azure AI | WordPress | MySQL | SQLite | REST APIs | Figma | Adobe
-Currently Learning: Rust | Tauri | Python
+Languages & Fundamentals | HTML | CSS | JavaScript | PHP | SQL |
+Frameworks & Libraries | React | Next.js | Express | Tailwind | GraphQL | Prisma |
+Tools & Platforms | Git | Azure AI | WordPress | MySQL | SQLite | REST APIs | Figma | Adobe |
+Currently Learning | Rust | Tauri | Python |
 | | | |
 
 
