@@ -4,13 +4,16 @@
 
 ## Knowledge 
 
-| | | |
-| :---  |    :----:   |   ---: |
-Languages & Fundamentals | HTML | CSS | JavaScript | PHP | SQL |
-Frameworks & Libraries | React | Next.js | Express | Tailwind | GraphQL | Prisma |
-Tools & Platforms | Git | Azure AI | WordPress | MySQL | SQLite | REST APIs | Figma | Adobe |
-Currently Learning | Rust | Tauri | Python |
-| | | |
+| **Languages & Fundamentals** | **Frameworks & Libraries** | **Tools & Platforms** | **Currently Learning** |
+|------------------------------|----------------------------|-----------------------|------------------------|
+| HTML                         | React                      | Git                   | Rust                   |
+| CSS                          | Next                       | Azure AI              | Tauri                  |
+| JavaScript                   | Express                    | WordPress             | Python                 |
+| PHP                          | Tailwind                   | MySQL                 |                        |
+| SQL                          | GraphQL                    | SQLite                |                        |
+|                              | Prisma                     | REST APIs             |                        |
+|                              |                            | Figma                 |                        |
+|                              |                            | Adobe                 |                        |
 
 
 
