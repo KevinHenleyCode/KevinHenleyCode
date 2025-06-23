@@ -2,16 +2,14 @@
 
 - I started programming in college but didn’t realize until after I had graduated that that would be what I wanted to do. So, I decided to attend the Rice University Full Stack Bootcamp. It was there that I learned HTML, CSS, JavaScript, jQuery, Node, Express, MySQL, MongoDB and React.
 
-## Languages and Technologies 
+## Knowledge 
 
 | | | |
 | :---  |    :----:   |   ---: |
-| HTML | CSS | JavaScript |
-| jQuery | Node | Express |
-| MySQL | MongoDB | React.js  |
-| PHP | Python | Linux |
-| Tailwind | Bootstrap | Java |
-| C# | CakePHP | Salesforce |
+Languages & Fundamentals: HTML | CSS | JavaScript | PHP | SQL
+Frameworks & Libraries: React | Next.js | Express | Tailwind | GraphQL | Prisma
+Tools & Platforms: Git | Azure AI | WordPress | MySQL | SQLite | REST APIs | Figma | Adobe
+Currently Learning: Rust | Tauri | Python
 | | | |
 
 
