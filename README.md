@@ -1,33 +1,50 @@
-## About me
+# Kevin Henley  
+Senior Frontend Engineer  
 
-- I'm a Full-Stack Web Developer with a strong foundation in modern frontend and backend technologies. Originally introduced to programming in college, I found my true passion after graduating and enrolled in the Rice University Full Stack Bootcamp. Since then, I've built a career crafting efficient, user-focused web applications and continually expanding my skill set.
+React / Next.js • Frontend Architecture • Cloud-Native Platforms  
 
-## Knowledge 
+- Conroe, TX  
+- https://kevinhenleycode.com  
+- https://www.linkedin.com/in/kevin-henley/  
 
-| **Languages & Fundamentals** | **Frameworks & Libraries** | **Tools & Platforms** | **Currently Learning** |
-|------------------------------|----------------------------|-----------------------|------------------------|
-| HTML                         | React                      | Git                   | Rust                   |
-| CSS                          | Next                       | Azure AI              | Tauri                  |
-| JavaScript                   | Express                    | WordPress             | Python                 |
-| PHP                          | Tailwind                   | MySQL                 |                        |
-| SQL                          | GraphQL                    | SQLite                |                        |
-|                              | Prisma                     | REST APIs             |                        |
-|                              |                            | Figma                 |                        |
-|                              |                            | Adobe                 |                        |
+---
 
+Senior Frontend Engineer with 5+ years of experience building and modernizing production web platforms using **React and Next.js**.
 
+I focus on frontend architecture, legacy migrations, and owning UI systems end-to-end — from component design and API integration to CI/CD, monitoring, and cloud tradeoffs that balance scalability, cost, and maintainability.
 
-## Currently
+---
 
-- Working as a **Senior Frontend Developer** at VineBrook Homes
-- Maintaining and enhancing functionality-heavy parts of a hybrid platform involving Next.js, Express.js, and WordPress
-- Previously led a team and implemented AI-driven tools to improve workflows
-- Actively learning **Rust**, **Tauri**, **Python**
-- Developing a custom **Universal Wishlist** and **Game Library** app
+## What I Work On
 
+- Frontend architecture and component-driven UI systems  
+- Next.js App Router platforms  
+- Migrating legacy applications to modern stacks  
+- Cloud-native deployments (AWS, serverless-first)  
+- Performance, developer velocity, and long-term maintainability  
 
+---
+
+## Featured Projects
+
+**Book Library Platform**  
+*Next.js 16 • TypeScript • AWS*  
+Cloud-sync-first personal library platform focused on real-world usage, architectural tradeoffs, and production reliability.
+
+**Portfolio Platform**  
+*Next.js • AWS*  
+Cloud-native portfolio rebuilt from EC2 to serverless infrastructure with CI/CD, monitoring, and headless CMS integration.
+
+---
+
+## Current Focus
+
+- Refining and modernizing personal platforms  
+- Documenting architectural decisions and tradeoffs  
+- Improving reliability, performance, and developer experience  
+
+---
 
 ## Contact
 
-- kevinhenleyinfo@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/kevin-henley/)
+ kevinhenleyinfo@gmail.com
